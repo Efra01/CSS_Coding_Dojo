@@ -1,0 +1,31 @@
+*{
+    margin: 10px;
+    font-size: 100pt;
+}
+#myclass {
+    font-family:Arial, Helvetica, sans-serif;
+    display: block;
+    background-color: black;
+    color: aqua;
+    }
+
+span {
+    color: aliceblue;
+}
+
+#projects {
+    background-color: purple;
+    display: block;
+    color: aliceblue;
+    margin: center;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+       }
+
+#contact {
+    background-color: aquamarine;
+    text-align:right;
+    text-decoration: underline;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}       
