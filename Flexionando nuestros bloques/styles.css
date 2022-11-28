@@ -1,0 +1,50 @@
+.gris{
+    width: 950px;
+    background-color: silver;
+    margin: auto;
+    display:flex;
+    flex-direction: column;
+
+}
+.verde {
+    width: 900px;
+    height: 150px;
+    background-color: green;
+    margin: 15px;
+      }
+
+.row {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+.azul {
+    height: 300px;
+    width: 200px;
+    background-color: blue;
+    margin: 10px;
+}
+.rojo {
+    height: 400px;
+    width: 700px;
+    background-color: red;
+    margin: 10px;
+    
+
+    
+    }
+.amarillo {
+    height: 200px;
+    width: 210px;
+    background-color: yellow;
+    margin: 5px;
+       }
+#lila {
+    height: 120px;
+    width: 660px;
+    background-color: purple;
+    margin-left: 20px;
+        
+}
+
+
